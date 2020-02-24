@@ -1,2 +1,2 @@
 # CAN
-Authors: Pogotovskii Pavel, Kichin Egot
+Authors: Pogotovskii Pavel, Kichin Egor
